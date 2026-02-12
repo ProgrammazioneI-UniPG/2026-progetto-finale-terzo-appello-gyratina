@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Valerio
 
-## Cognome: 
+## Cognome: Di Tommaso
 
-## Matricola:
+## Matricola: 390254
 
 ## Commenti/modifiche al progetto:
 
